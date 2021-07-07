@@ -22,7 +22,7 @@ The code is written such that it aligns well with the paper by referencing to eq
 ## Authors
 
 * Python implementation: Arman Naseri Jahfari (a.naserijahfari@tudelft.nl)
-* Original Matlab version: [Tax, D.M.J.]((https://github.com/DMJTax), [DDtools, the Data Description Toolbox for Matlab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-bioinformatics/data-and-software/dd-tools)
+* Original Matlab version: [Tax, D.M.J.](https://github.com/DMJTax), [DDtools, the Data Description Toolbox for Matlab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-bioinformatics/data-and-software/dd-tools)
 * Original paper: Tax, D. M. J., & Duin, R. P. W. (2004). Support Vector Data Description. Machine Learning, 54(1), 45–66. https://doi.org/10.1023/B:MACH.0000008084.60811.49
 
 ## Acknowledgements
