@@ -10,7 +10,7 @@ The code is written such that it aligns well with the paper by referencing to eq
 
 ### Dependencies
 
-* scikit-learn
+* [scikit-learn](https://pypi.org/project/scikit-learn/)
 * [cvxopt](https://pypi.org/project/cvxopt/)
 * [Numpy](https://pypi.org/project/numpy/)/[Scipy](https://pypi.org/project/scipy/)
 
