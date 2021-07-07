@@ -1,11 +1,9 @@
+
+# Author: Arman Naseri Jahfari (a.naserijahfari@tudelft.nl)
+
 import numpy as np
 from matplotlib import pyplot as plt
 from SVDD import SVDD
-from scipy.linalg import cholesky, LinAlgError
-from time import time
-import scipy.io as sio
-import definitions
-import pickle
 from sklearn.metrics import confusion_matrix as conf_mat
 meani = [0, 0]
 covi = [[1, 0], [0, 1]]

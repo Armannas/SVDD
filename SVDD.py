@@ -1,3 +1,7 @@
+
+# Author: Arman Naseri Jahfari (a.naserijahfari@tudelft.nl)
+# Original paper: Tax, D. M. J., & Duin, R. P. W. (2004).
+# # Support Vector Data Description. Machine Learning, 54(1), 45–66. https://doi.org/10.1023/B:MACH.0000008084.60811.49
 import numpy as np
 from scipy.spatial.distance import cdist
 from scipy.linalg import cholesky, LinAlgError
