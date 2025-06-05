@@ -29,7 +29,7 @@ The code is written such that it aligns well with the paper by referencing to eq
 If this code was helpful to your research/publication, please refer to it using the following:
 ```
 @misc{PythonSVDD,
-Author = {Naseri Jahfari, A},
+Author = {Naseri, A},
 Title = {Python implementation of the Support Vector Data Descriptor},
 publisher = {GitHub},
 journal = {GitHub repository},
